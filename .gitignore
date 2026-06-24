@@ -1,0 +1,40 @@
+# Visual Studio Build Outputs and Temporary Files
+Debug/
+Release/
+x64/
+ARM/
+ARM64/
+bin/
+obj/
+
+# Visual Studio Cache and Settings
+.vs/
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.db
+*.ipch
+
+# MSBuild & Compiler intermediate files
+*.aps
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.obj
+*.iobj
+*.ipdb
+*.unsuccessfulbuild
+*.lastbuildstate
+
+# Database or local data files (optional)
+# If you want to keep data clean, you can uncomment these,
+# but for now we keep them tracked so the project works immediately when cloned.
+# Clients.txt
+# Users.txt
+# Currencies.txt
+# Transactions.txt
+# LoginRegister.txt
