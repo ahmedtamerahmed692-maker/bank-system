@@ -176,6 +176,12 @@ User permissions are modeled using a binary flags system. Each permission corres
 
 ---
 
+## 👨‍💻 Developer
+
+* **Ahmed Tamer** - Computer Science Student at New Mansoura University (NMU).
+
+---
+
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
