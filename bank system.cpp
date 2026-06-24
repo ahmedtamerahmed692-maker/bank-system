@@ -1,7 +1,7 @@
 #define NOMINMAX
 #include <iostream>
 #include <windows.h>
-#include "clsLoginScreen.h"
+#include "Screens/clsLoginScreen.h"
 #include "Global.h"
 
 int main()
